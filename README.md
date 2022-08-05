@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vectordee
 - 👀 I’m interested in learning Web Development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I just finished learning HTML and CSS
+-  ▶ Currently learning JavaScript
 - 💞️ I’m looking to collaborate on building new projects
 - 📫 How to reach me vectorojay@gmail.com
 
